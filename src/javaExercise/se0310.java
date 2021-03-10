@@ -73,12 +73,12 @@ public class se0310 {
         int[] a={3,4,5,1,2};
         for(int i=0;i<a.length;i++){
             int m=i/2;
-            //int[] b=new int [a.length];
+            /*//int[] b=new int [a.length];
             if(i>m){
                 a[m+i]=a[0];
             }else{
                 a[i]=a[m+i];
-            }
+            }*/
             System.out.println(a[i]);
         }
 
