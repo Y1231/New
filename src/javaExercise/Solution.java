@@ -1,7 +1,7 @@
-package javaExercise;
+package javaExercise;/*
 
-public class Solution {
-    int index = 0; //计数器
+public class Solution {*/
+    /*int index = 0; //计数器
     TreeNode KthNode(TreeNode root, int k)
     {
         if(root != null){ //中序遍历寻找第k个
@@ -16,6 +16,8 @@ public class Solution {
                 return node;
         }
         return null;
-    }
+    }*/
+/*
 
 }
+*/
