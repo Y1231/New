@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="zh-hans">
+<head>
+    <meta charset="UTF-8">
+    <title>表白墙</title>
+</head>
+<body>
+<h1>表白墙</h1>
+<p>输入后点击提交，会将信息显示在表格中</p>
+<div>
+    谁: <input type="text" id="who">
+</div>
+<div>
+    对谁: <input type="text" id="target">
+</div>
+<div>
+    说什么: <input type="text" id="what">
+</div>
+<div>
+    <button type="button" id="send">提交</button>
+</div>
+<table>
+    <thead>
+    <tr>
+        <th>谁</th>
+        <th>对谁</th>
+        <th>说什么</th>
+    </tr>
+    </thead>
+    <tbody>
+    <!--
+    <tr>
+      <td>周瑜</td>
+      <td>张飞</td>
+      <td>岁岁有今朝</td>
+    </tr>
+    -->
+    </tbody>
+</table>
+<script>
+    var who = document.querySelector("#who");
+    var target = document.querySelector("#target");
+    var what = document.querySelector("#what");
+    var button = document.querySelector("#send");
+
+
+
+    button.onclick=function () {
+        var tbody=document.querySelector("tbody");
+
+        var tr=document.createElement("tr");
+        tr.innerHTML="<td>"+who+"</td><td>"+target+"</td><td>"+what;
+        tbody.appendChild(tr);
+
+        }
+
+    }
+</script>
+</body>
+</html>

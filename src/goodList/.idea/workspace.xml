@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16c7b042-d746-40d4-a81b-5bb9f0ed34e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../javaWeb/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaWeb/goodlist/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaWeb/goodlist/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaWeb/goodlist/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaWeb/goodlist/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaWeb/goodlist/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaWeb/goodlist/goodlist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaWeb/goodlist/src/main/webapp/WEB-INF/templates/goodlist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaWeb/guess_number.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaWeb/mydemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaWeb/t_demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaWeb/t_demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaWeb/t_demo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaWeb/t_demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaWeb/t_demo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaWeb/t_demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaWeb/t_demo/t_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaWeb/tdemo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaWeb/traffic-lights.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1snZpKwmW8Jf33BlZ8UC6GTeN0X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16c7b042-d746-40d4-a81b-5bb9f0ed34e1" name="Default Changelist" comment="" />
+      <created>1621510495538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621510495538</updated>
+      <workItem from="1621510498398" duration="10000" />
+    </task>
+    <servers />
+  </component>
+</project>
